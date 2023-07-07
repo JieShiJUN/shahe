@@ -15,3 +15,7 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\Repository\obj\Debug\net6.0\Repo
 C:\Users\蒋帅\source\repos\SaleSupportySystem\Repository\obj\Debug\net6.0\refint\Repository.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\Repository\obj\Debug\net6.0\Repository.pdb
 C:\Users\蒋帅\source\repos\SaleSupportySystem\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\Repository\bin\Debug\net6.0\Service.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\Repository\bin\Debug\net6.0\IService.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\Repository\bin\Debug\net6.0\Service.pdb
+C:\Users\蒋帅\source\repos\SaleSupportySystem\Repository\bin\Debug\net6.0\IService.pdb

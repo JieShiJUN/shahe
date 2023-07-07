@@ -203,6 +203,9 @@
             "projectReferences": {
               "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\IRepository\\IRepository.csproj": {
                 "projectPath": "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\IRepository\\IRepository.csproj"
+              },
+              "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\Service\\Service.csproj"
               }
             }
           }

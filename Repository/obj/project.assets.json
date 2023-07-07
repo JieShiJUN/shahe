@@ -1060,6 +1060,19 @@
           "bin/placeholder/IRepository.dll": {}
         }
       },
+      "IService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IService.dll": {}
+        }
+      },
       "Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1068,6 +1081,20 @@
         },
         "runtime": {
           "bin/placeholder/Model.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "IRepository": "1.0.0",
+          "IService": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.dll": {}
         }
       }
     }
@@ -3244,17 +3271,28 @@
       "path": "../IRepository/IRepository.csproj",
       "msbuildProject": "../IRepository/IRepository.csproj"
     },
+    "IService/1.0.0": {
+      "type": "project",
+      "path": "../IService/IService.csproj",
+      "msbuildProject": "../IService/IService.csproj"
+    },
     "Model/1.0.0": {
       "type": "project",
       "path": "../Model/Model.csproj",
       "msbuildProject": "../Model/Model.csproj"
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "path": "../Service/Service.csproj",
+      "msbuildProject": "../Service/Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "IRepository >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.8",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.8"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.8",
+      "Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3286,6 +3324,9 @@
           "projectReferences": {
             "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\IRepository\\IRepository.csproj": {
               "projectPath": "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\IRepository\\IRepository.csproj"
+            },
+            "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\Service\\Service.csproj"
             }
           }
         }

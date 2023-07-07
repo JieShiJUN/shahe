@@ -1183,7 +1183,8 @@
         "dependencies": {
           "IRepository": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.8",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.8"
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.8",
+          "Service": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Repository.dll": {}
