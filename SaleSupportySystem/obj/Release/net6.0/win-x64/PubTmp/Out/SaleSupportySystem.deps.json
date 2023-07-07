@@ -11,6 +11,7 @@
         "dependencies": {
           "IRepository": "1.0.0",
           "IService": "1.0.0",
+          "Microsoft.AspNetCore.SignalR.Common": "7.0.8",
           "Microsoft.EntityFrameworkCore": "7.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.8",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.18.1",
@@ -559,14 +560,6 @@
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.1823.26907"
           },
-          "System.Text.Encodings.Web.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.1823.26907"
-          },
-          "System.Text.Json.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.1823.26907"
-          },
           "System.Text.RegularExpressions.dll": {
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.1823.26907"
@@ -916,10 +909,6 @@
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.1823.26909"
           },
-          "Microsoft.AspNetCore.Connections.Abstractions.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.1823.26909"
-          },
           "Microsoft.AspNetCore.CookiePolicy.dll": {
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.1823.26909"
@@ -1152,10 +1141,6 @@
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.1823.26909"
           },
-          "Microsoft.AspNetCore.SignalR.Common.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.1823.26909"
-          },
           "Microsoft.AspNetCore.SignalR.Core.dll": {
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.1823.26909"
@@ -1229,10 +1214,6 @@
             "fileVersion": "6.0.1823.26909"
           },
           "Microsoft.Extensions.Diagnostics.HealthChecks.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.1823.26909"
-          },
-          "Microsoft.Extensions.Features.dll": {
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.1823.26909"
           },
@@ -1340,10 +1321,6 @@
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.21.52210"
           },
-          "System.IO.Pipelines.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.522.21309"
-          },
           "System.Security.Cryptography.Pkcs.dll": {
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.1823.26907"
@@ -1365,8 +1342,8 @@
           "System.Diagnostics.DiagnosticSource": "5.0.0",
           "System.Memory.Data": "1.0.2",
           "System.Numerics.Vectors": "4.5.0",
-          "System.Text.Encodings.Web": "4.7.2",
-          "System.Text.Json": "4.7.2",
+          "System.Text.Encodings.Web": "7.0.0",
+          "System.Text.Json": "7.0.3",
           "System.Threading.Tasks.Extensions": "4.5.4"
         },
         "runtime": {
@@ -1383,13 +1360,38 @@
           "Microsoft.Identity.Client.Extensions.Msal": "2.19.3",
           "System.Memory": "4.5.4",
           "System.Security.Cryptography.ProtectedData": "5.0.0",
-          "System.Text.Json": "4.7.2",
+          "System.Text.Json": "7.0.3",
           "System.Threading.Tasks.Extensions": "4.5.4"
         },
         "runtime": {
           "lib/netstandard2.0/Azure.Identity.dll": {
             "assemblyVersion": "1.6.0.0",
             "fileVersion": "1.600.22.20503"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Connections.Abstractions/7.0.8": {
+        "dependencies": {
+          "Microsoft.Extensions.Features": "7.0.8",
+          "System.IO.Pipelines": "7.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.AspNetCore.Connections.Abstractions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.823.31807"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.SignalR.Common/7.0.8": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Connections.Abstractions": "7.0.8",
+          "Microsoft.Extensions.Options": "7.0.1",
+          "System.Text.Json": "7.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Common.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.823.31807"
           }
         }
       },
@@ -1420,7 +1422,7 @@
           "System.Security.Cryptography.Cng": "5.0.0",
           "System.Security.Principal.Windows": "5.0.0",
           "System.Text.Encoding.CodePages": "5.0.0",
-          "System.Text.Encodings.Web": "4.7.2"
+          "System.Text.Encodings.Web": "7.0.0"
         },
         "runtime": {
           "runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll": {
@@ -1501,7 +1503,7 @@
           "Microsoft.Extensions.Caching.Abstractions": "7.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "7.0.0",
-          "Microsoft.Extensions.Options": "7.0.0",
+          "Microsoft.Extensions.Options": "7.0.1",
           "Microsoft.Extensions.Primitives": "7.0.0"
         },
         "runtime": {
@@ -1541,12 +1543,20 @@
           }
         }
       },
+      "Microsoft.Extensions.Features/7.0.8": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Features.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.823.31807"
+          }
+        }
+      },
       "Microsoft.Extensions.Logging/7.0.0": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": "7.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "7.0.0",
-          "Microsoft.Extensions.Options": "7.0.0"
+          "Microsoft.Extensions.Options": "7.0.1"
         },
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.Logging.dll": {
@@ -1563,7 +1573,7 @@
           }
         }
       },
-      "Microsoft.Extensions.Options/7.0.0": {
+      "Microsoft.Extensions.Options/7.0.1": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
           "Microsoft.Extensions.Primitives": "7.0.0"
@@ -1571,7 +1581,7 @@
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.Options.dll": {
             "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.22.51805"
+            "fileVersion": "7.0.323.6910"
           }
         }
       },
@@ -1818,11 +1828,19 @@
           "runtime.any.System.IO": "4.3.0"
         }
       },
+      "System.IO.Pipelines/7.0.0": {
+        "runtime": {
+          "lib/net6.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
       "System.Memory/4.5.4": {},
       "System.Memory.Data/1.0.2": {
         "dependencies": {
-          "System.Text.Encodings.Web": "4.7.2",
-          "System.Text.Json": "4.7.2"
+          "System.Text.Encodings.Web": "7.0.0",
+          "System.Text.Json": "7.0.3"
         },
         "runtime": {
           "lib/netstandard2.0/System.Memory.Data.dll": {
@@ -1930,8 +1948,29 @@
           "Microsoft.NETCore.Platforms": "5.0.0"
         }
       },
-      "System.Text.Encodings.Web/4.7.2": {},
-      "System.Text.Json/4.7.2": {},
+      "System.Text.Encodings.Web/7.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Text.Encodings.Web.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Text.Json/7.0.3": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0",
+          "System.Text.Encodings.Web": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Text.Json.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.723.27404"
+          }
+        }
+      },
       "System.Threading.Tasks/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "5.0.0",
@@ -2024,6 +2063,20 @@
       "sha512": "sha512-EycyMsb6rD2PK9P0SyibFfEhvWWttdrYhyPF4f41uzdB/44yQlV+2Wehxyg489Rj6gbPvSPgbKq0xsHJBhipZA==",
       "path": "azure.identity/1.6.0",
       "hashPath": "azure.identity.1.6.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Connections.Abstractions/7.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CcUuDYMD/mqeV5f78lq02tQrC3E8+L/1VoE7BvrHEv6XzbgCPItErWcNVyzhKDk1cqORLkMrYLvvMoDZ9kD6iA==",
+      "path": "microsoft.aspnetcore.connections.abstractions/7.0.8",
+      "hashPath": "microsoft.aspnetcore.connections.abstractions.7.0.8.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.SignalR.Common/7.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-um42kDDeQPxj4RNyVR9qfxDFrZ6iL6H0MVh0EjQV7hOpYSwhGneYiJk8hYrD8vE+umgE0xS4+hPgnb2xk5fZmg==",
+      "path": "microsoft.aspnetcore.signalr.common/7.0.8",
+      "hashPath": "microsoft.aspnetcore.signalr.common.7.0.8.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",
@@ -2130,6 +2183,13 @@
       "path": "microsoft.extensions.dependencyinjection.abstractions/7.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
     },
+    "Microsoft.Extensions.Features/7.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gp2cZYxYh3/acdAOGk3Nx7wmU26+eCisq/83rZ+WvyDl4J2BTo+WOKEW4RPLSFL/mp3OhFfgeFm8saifmRm2BQ==",
+      "path": "microsoft.extensions.features/7.0.8",
+      "hashPath": "microsoft.extensions.features.7.0.8.nupkg.sha512"
+    },
     "Microsoft.Extensions.Logging/7.0.0": {
       "type": "package",
       "serviceable": true,
@@ -2144,12 +2204,12 @@
       "path": "microsoft.extensions.logging.abstractions/7.0.0",
       "hashPath": "microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
     },
-    "Microsoft.Extensions.Options/7.0.0": {
+    "Microsoft.Extensions.Options/7.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lP1yBnTTU42cKpMozuafbvNtQ7QcBjr/CcK3bYOGEMH55Fjt+iecXjT6chR7vbgCMqy3PG3aNQSZgo/EuY/9qQ==",
-      "path": "microsoft.extensions.options/7.0.0",
-      "hashPath": "microsoft.extensions.options.7.0.0.nupkg.sha512"
+      "sha512": "sha512-pZRDYdN1FpepOIfHU62QoBQ6zdAoTvnjxFfqAzEd9Jhb2dfhA5i6jeTdgGgcgTWFRC7oT0+3XrbQu4LjvgX1Nw==",
+      "path": "microsoft.extensions.options/7.0.1",
+      "hashPath": "microsoft.extensions.options.7.0.1.nupkg.sha512"
     },
     "Microsoft.Extensions.Primitives/7.0.0": {
       "type": "package",
@@ -2403,6 +2463,13 @@
       "path": "system.io/4.3.0",
       "hashPath": "system.io.4.3.0.nupkg.sha512"
     },
+    "System.IO.Pipelines/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jRn6JYnNPW6xgQazROBLSfpdoczRw694vO5kKvMcNnpXuolEixUyw6IBuBs2Y2mlSX/LdLvyyWmfXhaI3ND1Yg==",
+      "path": "system.io.pipelines/7.0.0",
+      "hashPath": "system.io.pipelines.7.0.0.nupkg.sha512"
+    },
     "System.Memory/4.5.4": {
       "type": "package",
       "serviceable": true,
@@ -2522,19 +2589,19 @@
       "path": "system.text.encoding.codepages/5.0.0",
       "hashPath": "system.text.encoding.codepages.5.0.0.nupkg.sha512"
     },
-    "System.Text.Encodings.Web/4.7.2": {
+    "System.Text.Encodings.Web/7.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-iTUgB/WtrZ1sWZs84F2hwyQhiRH6QNjQv2DkwrH+WP6RoFga2Q1m3f9/Q7FG8cck8AdHitQkmkXSY8qylcDmuA==",
-      "path": "system.text.encodings.web/4.7.2",
-      "hashPath": "system.text.encodings.web.4.7.2.nupkg.sha512"
+      "sha512": "sha512-OP6umVGxc0Z0MvZQBVigj4/U31Pw72ITihDWP9WiWDm+q5aoe0GaJivsfYGq53o6dxH7DcXWiCTl7+0o2CGdmg==",
+      "path": "system.text.encodings.web/7.0.0",
+      "hashPath": "system.text.encodings.web.7.0.0.nupkg.sha512"
     },
-    "System.Text.Json/4.7.2": {
+    "System.Text.Json/7.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
-      "path": "system.text.json/4.7.2",
-      "hashPath": "system.text.json.4.7.2.nupkg.sha512"
+      "sha512": "sha512-AyjhwXN1zTFeIibHimfJn6eAsZ7rTBib79JQpzg8WAuR/HKDu9JGNHTuu3nbbXQ/bgI+U4z6HtZmCHNXB1QXrQ==",
+      "path": "system.text.json/7.0.3",
+      "hashPath": "system.text.json.7.0.3.nupkg.sha512"
     },
     "System.Threading.Tasks/4.3.0": {
       "type": "package",

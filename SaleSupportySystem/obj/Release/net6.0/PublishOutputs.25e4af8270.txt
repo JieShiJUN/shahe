@@ -7,6 +7,8 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\SaleSupportySystem.pdb
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Azure.Core.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Azure.Identity.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.SignalR.Common.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
@@ -18,6 +20,7 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Features.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Logging.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Options.dll
@@ -39,10 +42,13 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\System.Drawing.Common.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\System.IO.Pipelines.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\System.Memory.Data.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\System.Runtime.Caching.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\System.Security.Permissions.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\System.Text.Encodings.Web.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\System.Text.Json.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\System.Windows.Extensions.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -55,6 +61,7 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\IRepository.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\IService.dll
@@ -66,3 +73,4 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Model.pdb
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Repository.pdb
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\Service.pdb
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\PubTmp\Out\SaleSupportySystem.xml

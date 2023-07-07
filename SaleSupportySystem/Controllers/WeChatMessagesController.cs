@@ -57,7 +57,7 @@ namespace SaleSupportySystem.Controllers
         [HttpPost("SelectPageWeChatMessages")]
         public async Task<PagingUtil<WeChatMessages>> SelectPageWeChatMessages(WeChatMessages model,int size, int no)
         {
-            var data = await _servic.QueryAsync(s=>s.Id>model.Id);
+            var data = await _servic.QueryAsync(s=>s.Time>model.Time);
             return new PagingUtil<WeChatMessages>(data, size, no);
         }
     }

@@ -138,8 +138,6 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Text.Encoding.CodePages.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Text.Encoding.Extensions.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Text.Encoding.dll
-C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Text.Encodings.Web.dll
-C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Text.Json.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Text.RegularExpressions.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Threading.Channels.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Threading.Overlapped.dll
@@ -183,7 +181,6 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Components.Server.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Components.Web.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Components.dll
-C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Cors.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -242,7 +239,6 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Server.Kestrel.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Session.dll
-C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.SignalR.Common.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.SignalR.Core.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.SignalR.dll
@@ -262,7 +258,6 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.Diagnostics.HealthChecks.dll
-C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.Features.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.FileProviders.Composite.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.FileProviders.Embedded.dll
@@ -289,7 +284,6 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Net.Http.Headers.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Diagnostics.EventLog.Messages.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Diagnostics.EventLog.dll
-C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.IO.Pipelines.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Security.Cryptography.Pkcs.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Security.Cryptography.Xml.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.DiaSymReader.Native.amd64.dll
@@ -352,6 +346,8 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Azure.Core.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Azure.Identity.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.AspNetCore.SignalR.Common.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Data.SqlClient.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
@@ -363,6 +359,7 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.Features.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.Logging.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Extensions.Options.dll
@@ -384,10 +381,13 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Configuration.ConfigurationManager.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Drawing.Common.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.IO.Pipelines.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Memory.Data.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Runtime.Caching.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Security.Permissions.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Text.Encodings.Web.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Text.Json.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\System.Windows.Extensions.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\IRepository.dll
@@ -400,3 +400,4 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Model.pdb
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Repository.pdb
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\Service.pdb
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\PubTmp\Out\SaleSupportySystem.xml

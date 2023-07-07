@@ -94,3 +94,5 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Debug\net
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\SaleSupportySystem.xml
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.xml

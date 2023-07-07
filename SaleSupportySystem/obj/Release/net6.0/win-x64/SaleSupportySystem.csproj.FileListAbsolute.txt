@@ -421,3 +421,5 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\SaleSupportySystem.pdb
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\SaleSupportySystem.genruntimeconfig.cache
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\ref\SaleSupportySystem.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Release\net6.0\win-x64\SaleSupportySystem.xml
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\win-x64\SaleSupportySystem.xml

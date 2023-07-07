@@ -56,8 +56,8 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run("https://localhost:7271");
-
+/*app.Run("https://localhost:7271");*/
+app.Run();
 
 static class IOCExtend
 {
