@@ -24,12 +24,22 @@ namespace SaleSupportySystem.Controllers
             _servic = servic;
         }
 
+        /// <summary>
+        /// 获取全部微信消息
+        /// </summary>
+        /// <returns></returns>
         [HttpGet("AllWeChatMessages")]
         public async Task<List<WeChatMessages>> AllWeChatMessages()
         {
             return await _servic.GetAllAsync();
         }
 
+        /// <summary>
+        /// 分页获取消息
+        /// </summary>
+        /// <param name="size">数量</param>
+        /// <param name="no">页码</param>
+        /// <returns></returns>
         [HttpPost("PageWeChatMessages")]
         public async Task<PagingUtil<WeChatMessages>> PageWeChatMessages(int size, int no)
         {
@@ -37,6 +47,13 @@ namespace SaleSupportySystem.Controllers
             return new PagingUtil<WeChatMessages>(data, size, no);
         }
 
+        /// <summary>
+        /// 根据id获取
+        /// </summary>
+        /// <param name="model"></param>
+        /// <param name="size"></param>
+        /// <param name="no"></param>
+        /// <returns></returns>
         [HttpPost("SelectPageWeChatMessages")]
         public async Task<PagingUtil<WeChatMessages>> SelectPageWeChatMessages(WeChatMessages model,int size, int no)
         {

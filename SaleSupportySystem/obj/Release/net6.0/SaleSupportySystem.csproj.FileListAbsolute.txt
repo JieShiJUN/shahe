@@ -87,3 +87,12 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\n
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\SaleSupportySystem.pdb
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\SaleSupportySystem.genruntimeconfig.cache
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\ref\SaleSupportySystem.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Release\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Release\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Release\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Release\net6.0\System.IO.Pipelines.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Release\net6.0\SaleSupportySystem.xml
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\SaleSupportySystem.xml
