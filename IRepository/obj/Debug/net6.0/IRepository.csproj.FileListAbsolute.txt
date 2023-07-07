@@ -1,0 +1,15 @@
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\bin\Debug\net6.0\IRepository.deps.json
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\bin\Debug\net6.0\IRepository.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\bin\Debug\net6.0\IRepository.pdb
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\bin\Debug\net6.0\Model.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\bin\Debug\net6.0\Model.pdb
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\obj\Debug\net6.0\IRepository.csproj.AssemblyReference.cache
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\obj\Debug\net6.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\obj\Debug\net6.0\IRepository.AssemblyInfoInputs.cache
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\obj\Debug\net6.0\IRepository.AssemblyInfo.cs
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\obj\Debug\net6.0\IRepository.csproj.CoreCompileInputs.cache
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\obj\Debug\net6.0\IRepository.csproj.CopyComplete
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\obj\Debug\net6.0\IRepository.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\obj\Debug\net6.0\refint\IRepository.dll
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\obj\Debug\net6.0\IRepository.pdb
+C:\Users\蒋帅\source\repos\SaleSupportySystem\IRepository\obj\Debug\net6.0\ref\IRepository.dll
