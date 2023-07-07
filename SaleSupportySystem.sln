@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaleSupportySystem", "SaleSupportySystem\SaleSupportySystem.csproj", "{2F4DB6FD-C4E8-41DB-80DB-1CB507994772}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaleSupportySystem", "SaleSupportySystem\SaleSupportySystem.csproj", "{2F4DB6FD-C4E8-41DB-80DB-1CB507994772}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{1A2983B1-E908-4403-9131-0C86884C2566}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositorys", "Repositorys", "{1A2983B1-E908-4403-9131-0C86884C2566}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRepository", "IRepository\IRepository.csproj", "{7373DAD1-3C36-4F75-B68E-DCD927D54830}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IRepository", "IRepository\IRepository.csproj", "{7373DAD1-3C36-4F75-B68E-DCD927D54830}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{C118672F-C951-4A48-9491-FBF1E95E452D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{C118672F-C951-4A48-9491-FBF1E95E452D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{65C959C9-85EF-4788-9781-F1C651D4867C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{65C959C9-85EF-4788-9781-F1C651D4867C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IService", "IService\IService.csproj", "{7A346358-5D0F-4A02-BBDB-AEE61C7F8496}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IService", "IService\IService.csproj", "{7A346358-5D0F-4A02-BBDB-AEE61C7F8496}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{3054EEEC-45D7-4092-9313-38D49DD0698C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{3054EEEC-45D7-4092-9313-38D49DD0698C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{7F1861E3-131D-4868-A9EC-5118C0F0961E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{7F1861E3-131D-4868-A9EC-5118C0F0961E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

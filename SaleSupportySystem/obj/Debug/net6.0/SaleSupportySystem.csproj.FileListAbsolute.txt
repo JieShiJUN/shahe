@@ -1,10 +1,3 @@
-C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.csproj.AssemblyReference.cache
-C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.AssemblyInfoInputs.cache
-C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.AssemblyInfo.cs
-C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.csproj.CoreCompileInputs.cache
-C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\appsettings.json
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\SaleSupportySystem.exe
@@ -73,6 +66,13 @@ C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Debug\net
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\Model.pdb
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\Repository.pdb
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\Service.pdb
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.csproj.AssemblyReference.cache
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.AssemblyInfoInputs.cache
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.AssemblyInfo.cs
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.csproj.CoreCompileInputs.cache
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\SaleSupportySystem.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\staticwebassets\msbuild.SaleSupportySystem.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\staticwebassets\msbuild.build.SaleSupportySystem.props
 C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SaleSupportySystem.props

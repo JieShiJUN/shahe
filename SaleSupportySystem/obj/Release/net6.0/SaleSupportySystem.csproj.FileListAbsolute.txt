@@ -1,0 +1,6 @@
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\SaleSupportySystem.csproj.AssemblyReference.cache
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\SaleSupportySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\SaleSupportySystem.AssemblyInfoInputs.cache
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\SaleSupportySystem.AssemblyInfo.cs
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\SaleSupportySystem.csproj.CoreCompileInputs.cache
+C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\obj\Release\net6.0\SaleSupportySystem.MvcApplicationPartsAssemblyInfo.cache

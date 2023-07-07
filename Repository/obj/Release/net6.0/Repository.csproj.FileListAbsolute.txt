@@ -1,0 +1,5 @@
+C:\Users\蒋帅\source\repos\SaleSupportySystem\Repository\obj\Release\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\蒋帅\source\repos\SaleSupportySystem\Repository\obj\Release\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\蒋帅\source\repos\SaleSupportySystem\Repository\obj\Release\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\蒋帅\source\repos\SaleSupportySystem\Repository\obj\Release\net6.0\Repository.AssemblyInfo.cs
+C:\Users\蒋帅\source\repos\SaleSupportySystem\Repository\obj\Release\net6.0\Repository.csproj.CoreCompileInputs.cache
