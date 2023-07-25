@@ -7,9 +7,9 @@ stages:
 
 variables:
   DOCKER_IMAGE: mcr.microsoft.com/dotnet/sdk:6.0
-  DOCKER_IMAGE_NAME: SaleSupportyImage
+  DOCKER_IMAGE_NAME: salesupportyimage
   DOCKER_IMAGE_TAG: latest
-  DOCKER_PS_NAME: SaleSupportySystemPs
+  DOCKER_PS_NAME: salesupportysystemps
   PROT_PS: '8807'
   DOCKER_FILE: ./SaleSupportySystem/Dockerfile
 
