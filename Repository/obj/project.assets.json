@@ -3296,19 +3296,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\蒋帅\\.nuget\\packages\\": {}
+    "C:\\Users\\15523\\.nuget\\packages\\": {},
+    "E:\\CodeIdea\\VisualStudioShared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\Repository\\Repository.csproj",
+      "projectUniqueName": "E:\\CodeGit\\SaleSupportySystem\\SaleSupportySystem\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\Repository\\Repository.csproj",
-      "packagesPath": "C:\\Users\\蒋帅\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\Repository\\obj\\",
+      "projectPath": "E:\\CodeGit\\SaleSupportySystem\\SaleSupportySystem\\Repository\\Repository.csproj",
+      "packagesPath": "C:\\Users\\15523\\.nuget\\packages\\",
+      "outputPath": "E:\\CodeGit\\SaleSupportySystem\\SaleSupportySystem\\Repository\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\CodeIdea\\VisualStudioShared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\蒋帅\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\15523\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3316,17 +3321,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\IRepository\\IRepository.csproj": {
-              "projectPath": "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\IRepository\\IRepository.csproj"
+            "E:\\CodeGit\\SaleSupportySystem\\SaleSupportySystem\\IRepository\\IRepository.csproj": {
+              "projectPath": "E:\\CodeGit\\SaleSupportySystem\\SaleSupportySystem\\IRepository\\IRepository.csproj"
             },
-            "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\蒋帅\\source\\repos\\SaleSupportySystem\\Service\\Service.csproj"
+            "E:\\CodeGit\\SaleSupportySystem\\SaleSupportySystem\\Service\\Service.csproj": {
+              "projectPath": "E:\\CodeGit\\SaleSupportySystem\\SaleSupportySystem\\Service\\Service.csproj"
             }
           }
         }
@@ -3366,7 +3372,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
