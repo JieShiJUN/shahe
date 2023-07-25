@@ -1,0 +1,51 @@
+stages:
+  - install
+  - build
+  - test
+  - package
+  - deploy
+
+variables:
+  DOCKER_IMAGE: mcr.microsoft.com/dotnet/sdk:6.0
+  DOCKER_IMAGE_NAME: SaleSupportyImage
+  DOCKER_IMAGE_TAG: latest
+  DOCKER_PS_NAME: SaleSupportySystemPs
+  PROT_PS: '8807'
+  DOCKER_FILE: ./SaleSupportySystem/Dockerfile
+
+image: $DOCKER_IMAGE
+
+#缓存：
+cache:
+  key: vitepro
+  paths:
+    - node_modules
+
+install_job:
+  stage: install
+  script:
+      - cd
+
+build_job:
+  stage: build
+  script:
+    - dotnet build
+
+test_job:
+  stage: test
+  script:
+    # - cd
+    - dotnet test
+
+package:
+  stage: package
+  script:
+    - dotnet publish --configuration Release --output publish/
+
+deploy_job:
+  stage: deploy
+  image: docker
+  script:
+    - docker build -t $DOCKER_IMAGE_NAME:$DOCKER_IMAGE_TAG -f $DOCKER_FILE .
+    - if [ $(docker ps -aq --filter name=$DOCKER_PS_NAME) ]; then docker rm -f $DOCKER_PS_NAME; fi
+    - docker run -d -p $PROT_PS:80 --name $DOCKER_PS_NAME $DOCKER_IMAGE_NAME:$DOCKER_IMAGE_TAG

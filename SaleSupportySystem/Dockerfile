@@ -5,6 +5,9 @@ WORKDIR /app
 EXPOSE 80
 EXPOSE 443
 
+ENV LANG=C.UTF-8
+ENV LANG=en_US.UTF-8 
+
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 COPY ["SaleSupportySystem/SaleSupportySystem.csproj", "SaleSupportySystem/"]
