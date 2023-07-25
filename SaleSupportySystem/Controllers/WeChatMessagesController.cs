@@ -1,11 +1,7 @@
 using IService;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Data.SqlClient;
 using Model;
-using SaleSupportySystem.DbUitil;
 using SaleSupportySystem.Utility.Page;
-using System.Drawing;
-using System.Linq;
 
 namespace SaleSupportySystem.Controllers
 {
@@ -15,12 +11,10 @@ namespace SaleSupportySystem.Controllers
     {
        
         private readonly ILogger<WeChatMessagesController> _logger;
-        private readonly DbEntitys _entitys;
         private readonly IWeChatMessagesService _servic;
         public WeChatMessagesController(ILogger<WeChatMessagesController> logger,IWeChatMessagesService servic)
         {
             _logger = logger;
-            _entitys = new DbEntitys();
             _servic = servic;
         }
 
@@ -37,7 +31,7 @@ namespace SaleSupportySystem.Controllers
         /// <summary>
         /// 分页获取消息
         /// </summary>
-        /// <param name="size">数量</param>
+        /// <param name="size">数量</param>   
         /// <param name="no">页码</param>
         /// <returns></returns>
         [HttpPost("PageWeChatMessages")]

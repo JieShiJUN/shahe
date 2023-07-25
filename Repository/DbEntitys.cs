@@ -1,10 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Model;
 
 namespace Repository
 {
     public class DbEntitys : DbContext
     {
+        IConfiguration configuration = new ConfigurationBuilder().SetBasePath(Environment.CurrentDirectory).AddJsonFile("appsettings.json").Build();
         /// <summary>
         /// 配置连接字符串，每次访问数据库之前会自动执行此方法，在这里配置连接字符串
         /// 相当于连接前事件
@@ -15,10 +17,11 @@ namespace Repository
         {
             string ConnString;
 #if (DEBUG)
-            ConnString = "Data Source=localhost;Initial Catalog=WeChatAssistant;User ID=sa;Password=51475720;TrustServerCertificate=true;";
-            builder.UseSqlServer(ConnString, options => options.EnableRetryOnFailure());
+            ConnString = configuration.GetValue<string>("Dbcontest");
+            builder.UseMySql(ConnString, new MySqlServerVersion(new Version()));
 #else
-           builder.UseSqlServer("Data Source=localhost;Initial Catalog=WeChatAssistant;User ID=sa;Password=51475720;TrustServerCertificate=true;");
+          ConnString = configuration.GetValue<string>("Dbcon");
+           builder.UseMySql(ConnString, new MySqlServerVersion(new Version()));
 #endif
 
         }

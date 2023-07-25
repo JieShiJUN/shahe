@@ -15,9 +15,6 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 
-builder.Services.AddSignalR();
-
-
 builder.Services.AddScoped<IWeChatMessagesRepository, WeChatMessagesRepository>();
 builder.Services.AddScoped<IWeChatMessagesService, WeChatMessagesService>();
 
@@ -47,12 +44,6 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
-
-/*app.UseEndpoints(endpoints =>
-{
-    endpoints.MapControllers();
-    endpoints.MapHub<MyHub>("/myHub"); // 指定SignalR Hub的路由
-});*/
 
 app.MapControllers();
 
