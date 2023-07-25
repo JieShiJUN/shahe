@@ -28,3 +28,4 @@ E:\CodeGit\SaleSupportySystem\SaleSupportySystem\IService\obj\Release\net6.0\ISe
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\IService\obj\Release\net6.0\refint\IService.dll
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\IService\obj\Release\net6.0\IService.pdb
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\IService\obj\Release\net6.0\ref\IService.dll
+E:\CodeGit\SaleSupportySystem\SaleSupportySystem\IService\bin\Release\net6.0\Model.xml

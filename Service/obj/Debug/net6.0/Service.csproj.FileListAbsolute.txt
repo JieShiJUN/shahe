@@ -36,3 +36,4 @@ E:\CodeGit\SaleSupportySystem\SaleSupportySystem\Service\obj\Debug\net6.0\Servic
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\Service\obj\Debug\net6.0\refint\Service.dll
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\Service\obj\Debug\net6.0\Service.pdb
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\Service\obj\Debug\net6.0\ref\Service.dll
+E:\CodeGit\SaleSupportySystem\SaleSupportySystem\Service\bin\Debug\net6.0\Model.xml

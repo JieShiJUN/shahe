@@ -2,9 +2,15 @@
 
 namespace Model
 {
+    /// <summary>
+    /// 微信消息
+    /// </summary>
     [Table("WeChatMessages")]
     public class WeChatMessages
     {
+        /// <summary>
+        /// ID
+        /// </summary>
         public int Id { get; set; }
         /// <summary>
         /// 用户名

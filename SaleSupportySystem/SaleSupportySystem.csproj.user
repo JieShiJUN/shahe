@@ -3,6 +3,8 @@
   <PropertyGroup>
     <ActiveDebugProfile>SaleSupportySystem</ActiveDebugProfile>
     <NameOfLastUsedPublishProfile>C:\Users\蒋帅\source\repos\SaleSupportySystem\SaleSupportySystem\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
+    <Controller_SelectedScaffolderID>MvcControllerWithActionsScaffolder</Controller_SelectedScaffolderID>
+    <Controller_SelectedScaffolderCategoryPath>root/Common/MVC/Controller</Controller_SelectedScaffolderCategoryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>

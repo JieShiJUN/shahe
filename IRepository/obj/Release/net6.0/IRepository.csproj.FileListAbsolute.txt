@@ -28,3 +28,4 @@ E:\CodeGit\SaleSupportySystem\SaleSupportySystem\IRepository\obj\Release\net6.0\
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\IRepository\obj\Release\net6.0\refint\IRepository.dll
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\IRepository\obj\Release\net6.0\IRepository.pdb
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\IRepository\obj\Release\net6.0\ref\IRepository.dll
+E:\CodeGit\SaleSupportySystem\SaleSupportySystem\IRepository\bin\Release\net6.0\Model.xml

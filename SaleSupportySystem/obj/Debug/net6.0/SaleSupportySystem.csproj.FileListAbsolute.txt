@@ -164,3 +164,11 @@ E:\CodeGit\SaleSupportySystem\SaleSupportySystem\SaleSupportySystem\bin\Debug\ne
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\CodeGit\SaleSupportySystem\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\CodeGit\SaleSupportySystem\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CodeGit\SaleSupportySystem\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\CodeGit\SaleSupportySystem\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\CodeGit\SaleSupportySystem\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CodeGit\SaleSupportySystem\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\CodeGit\SaleSupportySystem\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CodeGit\SaleSupportySystem\SaleSupportySystem\SaleSupportySystem\bin\Debug\net6.0\Model.xml

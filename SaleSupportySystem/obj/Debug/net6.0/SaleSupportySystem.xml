@@ -4,13 +4,13 @@
         <name>SaleSupportySystem</name>
     </assembly>
     <members>
-        <member name="M:SaleSupportySystem.Controllers.WeChatMessagesController.AllWeChatMessages">
+        <member name="M:SaleSupportySystem.Controllers.WeChat.WeChatMessagesController.AllWeChatMessages">
             <summary>
             获取全部微信消息
             </summary>
             <returns></returns>
         </member>
-        <member name="M:SaleSupportySystem.Controllers.WeChatMessagesController.PageWeChatMessages(System.Int32,System.Int32)">
+        <member name="M:SaleSupportySystem.Controllers.WeChat.WeChatMessagesController.PageWeChatMessages(System.Int32,System.Int32)">
             <summary>
             分页获取消息
             </summary>
@@ -18,14 +18,34 @@
             <param name="no">页码</param>
             <returns></returns>
         </member>
-        <member name="M:SaleSupportySystem.Controllers.WeChatMessagesController.SelectPageWeChatMessages(Model.WeChatMessages,System.Int32,System.Int32)">
+        <member name="M:SaleSupportySystem.Controllers.WeChat.WeChatMessagesController.SelectPageWeChatMessages(Model.WeChatMessages,System.Int32,System.Int32)">
             <summary>
             根据id获取
             </summary>
-            <param name="model"></param>
-            <param name="size"></param>
-            <param name="no"></param>
+            <param name="model">微信消息</param>
+            <param name="size">数量</param>
+            <param name="no">页码</param>
             <returns></returns>
+        </member>
+        <member name="P:SaleSupportySystem.Utility.Options.JWTOptions.SecretKey">
+            <summary>
+            密钥
+            </summary>
+        </member>
+        <member name="P:SaleSupportySystem.Utility.Options.JWTOptions.Issuer">
+            <summary>
+            签发token者
+            </summary>
+        </member>
+        <member name="P:SaleSupportySystem.Utility.Options.JWTOptions.Audience">
+            <summary>
+            接收者
+            </summary>
+        </member>
+        <member name="P:SaleSupportySystem.Utility.Options.JWTOptions.ExpireMinutes">
+            <summary>
+            过期时间：分钟
+            </summary>
         </member>
         <member name="M:SaleSupportySystem.Utility.Page.PagingUtil`1.#ctor(System.Collections.Generic.List{`0},System.Int32,System.Int32)">
             <summary>
@@ -37,14 +57,14 @@
         </member>
         <member name="M:IOCExtend.AddFiltersIOC(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
             <summary>
-            服务注册
+            API服务注册
             </summary>
             <param name="services"></param>
             <returns></returns>
         </member>
         <member name="M:IOCExtend.AddCustomIOC(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
             <summary>
-            过滤器
+            过滤器服务注册
             </summary>
             <param name="services"></param>
             <returns></returns>

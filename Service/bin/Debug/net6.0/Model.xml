@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Model</name>
+    </assembly>
+    <members>
+        <member name="T:Model.WeChatMessages">
+            <summary>
+            微信消息
+            </summary>
+        </member>
+        <member name="P:Model.WeChatMessages.Id">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="P:Model.WeChatMessages.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:Model.WeChatMessages.Json">
+            <summary>
+            聊天内容
+            </summary>
+        </member>
+        <member name="P:Model.WeChatMessages.MsgId">
+            <summary>
+            MsgId
+            </summary>
+        </member>
+        <member name="P:Model.WeChatMessages.Time">
+            <summary>
+            时间戳
+            </summary>
+        </member>
+    </members>
+</doc>

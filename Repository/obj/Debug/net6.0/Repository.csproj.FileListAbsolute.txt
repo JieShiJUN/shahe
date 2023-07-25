@@ -40,3 +40,4 @@ E:\CodeGit\SaleSupportySystem\SaleSupportySystem\Repository\obj\Debug\net6.0\Rep
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\Repository\obj\Debug\net6.0\refint\Repository.dll
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\Repository\obj\Debug\net6.0\Repository.pdb
 E:\CodeGit\SaleSupportySystem\SaleSupportySystem\Repository\obj\Debug\net6.0\ref\Repository.dll
+E:\CodeGit\SaleSupportySystem\SaleSupportySystem\Repository\bin\Debug\net6.0\Model.xml
