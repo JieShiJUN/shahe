@@ -1,8 +1,10 @@
 using IService;
 using Microsoft.AspNetCore.SignalR;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 using Repository;
 using SaleSupportySystem;
+using SaleSupportySystem.Filers;
 using Service;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,8 +17,11 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 
-builder.Services.AddScoped<IWeChatMessagesRepository, WeChatMessagesRepository>();
-builder.Services.AddScoped<IWeChatMessagesService, WeChatMessagesService>();
+#region 服务依赖注入
+IOCExtend.AddCustomIOC(builder.Services);
+IOCExtend.AddFiltersIOC(builder.Services);
+#endregion
+
 
 builder.Services.AddSwaggerGen(c =>
 {
@@ -52,6 +57,26 @@ app.Run();
 
 static class IOCExtend
 {
+    /// <summary>
+    /// 服务注册
+    /// </summary>
+    /// <param name="services"></param>
+    /// <returns></returns>
+    public static IServiceCollection AddFiltersIOC(this IServiceCollection services)
+    {
+        services.AddMvcCore(options =>
+        {
+            options.Filters.Add<ResponseFiler>();
+            options.Filters.Add<ExceptionFiler>();
+        });
+        return services;
+    }
+
+    /// <summary>
+    /// 过滤器
+    /// </summary>
+    /// <param name="services"></param>
+    /// <returns></returns>
     public static IServiceCollection AddCustomIOC(this IServiceCollection services)
     {
         services.AddScoped<IWeChatMessagesRepository, WeChatMessagesRepository>();

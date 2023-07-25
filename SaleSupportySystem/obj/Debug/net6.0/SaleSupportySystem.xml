@@ -35,5 +35,19 @@
             <param name="pageSize"></param>
             <param name="pageNo"></param>
         </member>
+        <member name="M:IOCExtend.AddFiltersIOC(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            服务注册
+            </summary>
+            <param name="services"></param>
+            <returns></returns>
+        </member>
+        <member name="M:IOCExtend.AddCustomIOC(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            过滤器
+            </summary>
+            <param name="services"></param>
+            <returns></returns>
+        </member>
     </members>
 </doc>
