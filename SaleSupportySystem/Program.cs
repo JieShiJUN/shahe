@@ -1,11 +1,8 @@
 using IService;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.SignalR;
-using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using Repository;
-using SaleSupportySystem;
 using SaleSupportySystem.Filers;
 using SaleSupportySystem.Utility.Options;
 using Service;
