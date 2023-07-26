@@ -10,8 +10,11 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 控制器服务注册
-builder.Services.AddControllers();
+// 控制器服务注册 并且中文格式
+builder.Services.AddControllers().AddJsonOptions(options =>
+{
+    options.JsonSerializerOptions.Encoder = System.Text.Encodings.Web.JavaScriptEncoder.Create(System.Text.Unicode.UnicodeRanges.All);
+});
 //  这是一个扩展方法，用于向应用程序的服务集合中添加Endpoints API Explorer服务。它允许我们生成API的元数据，并提供Swagger UI
 builder.Services.AddEndpointsApiExplorer();
 
